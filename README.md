@@ -2,3 +2,5 @@
 IT394 Demo
 
 small demo of git and github functionality
+
+* added median function
